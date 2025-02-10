@@ -5,12 +5,9 @@ This project is a Hospital Automation System developed as part of an Object-Orie
 
 ## Technologies Used
 - Java
-- Swing (GUI Interface)
-- MySQL (if database is used)
 
 ## Requirements
 - Java 11+
-- MySQL (Optional, for database connection)
 
 ## How to Run
 1. Ensure Java 11+ is installed.
